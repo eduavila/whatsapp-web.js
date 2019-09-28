@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/pedroslopez/whatsapp-web.js#readme",
   "dependencies": {
+    "base-64": "^0.1.0",
+    "mime-types": "^2.1.24",
     "puppeteer": "^1.12.2"
   }
 }
